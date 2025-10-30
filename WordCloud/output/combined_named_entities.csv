@@ -1,0 +1,1352 @@
+entity,label,count
+hindu,NORP,267
+buddhist,NORP,87
+shiva,PERSON,80
+european,NORP,54
+british,NORP,48
+assamese,NORP,38
+dzongu,GPE,33
+hindi,GPE,33
+lepcha,ORG,31
+deccan,NORP,30
+km²,PERSON,30
+imphal,GPE,25
+himalayan,NORP,21
+french,NORP,21
+camellia,GPE,20
+awadhi,PERSON,19
+portuguese,NORP,18
+kherwarian,NORP,18
+hyderabad,ORG,18
+mahabharata,ORG,18
+tibetan,NORP,18
+jain,ORG,17
+gyalshing city,GPE,17
+vijayanagara empire,PERSON,17
+sufi,NORP,17
+paigah,LOC,17
+kannada,PERSON,17
+islamic,NORP,17
+tani,LOC,16
+vedic,PRODUCT,16
+sushmita sen,PERSON,15
+pathalgadi,PERSON,15
+joha,GPE,15
+thai,NORP,15
+buddha,PERSON,15
+kumaon,ORG,15
+dia mirza,PERSON,15
+tamil,PERSON,14
+errum manzil,PERSON,14
+gopurams,GPE,14
+siddha,PERSON,14
+tai khamti,PERSON,14
+gajan,GPE,14
+the qutb shahi,EVENT,14
+lugdi,PRODUCT,14
+vijayawada,GPE,14
+unesco world heritage site,ORG,13
+albert abid,PERSON,13
+ramakrishnapuram lake,PERSON,13
+lumbini park,PERSON,13
+kol,NORP,13
+mahamaham,ORG,13
+cheriyal,ORG,13
+majuli,PERSON,13
+kambala,GPE,13
+bella vista,PERSON,13
+chettinad,PERSON,13
+kantha,GPE,13
+mosques,FAC,13
+krishna,PERSON,13
+tibetan buddhist,NORP,12
+drukpa,PERSON,12
+the church of south india,ORG,12
+khamti pottery,ORG,12
+the gyalwang karmapa,ORG,12
+paljor stadium,FAC,12
+awadh,GPE,12
+holi,PERSON,12
+the subansiri river,LOC,12
+the ministry of culture,ORG,12
+great living chola temples,WORK_OF_ART,12
+assam silk,PERSON,12
+sikkim,GPE,11
+muga,PERSON,11
+kanchi kamakoti peetham,PERSON,11
+kali puja,PERSON,11
+the palace grounds,FAC,11
+mithila,LOC,11
+rang ghar,PERSON,11
+basavanna,LOC,11
+jharkhand,GPE,11
+chikankari,ORG,11
+lingayats,PERSON,11
+gamosa,PERSON,11
+mohammedans,NORP,11
+nataraja,EVENT,11
+wooden masks,WORK_OF_ART,11
+mysore pak,PERSON,11
+pusam,PERSON,11
+bhagta parab,PERSON,11
+south asia,LOC,11
+sohrai and khovar,ORG,11
+tagin,NORP,11
+hyderabadi muslim,NORP,11
+the new year,EVENT,11
+charminar,GPE,11
+nizam,ORG,10
+patna museum,ORG,10
+monpa,PERSON,10
+kali,PERSON,10
+the ahom empire,ORG,10
+xorai,ORG,10
+british division,ORG,10
+fort,GPE,10
+catholic,NORP,10
+the sur empire,GPE,10
+unesco,ORG,10
+rameshwaram island,LOC,10
+makar sankranti,PERSON,10
+sino-tibetan,NORP,10
+vishnu,PERSON,10
+ganges,ORG,10
+ramcharitmanas,GPE,10
+terracotta,ORG,10
+tripura,GPE,10
+the portuguese empire,ORG,10
+luanchari,PERSON,10
+santali,PERSON,10
+ibrahim bagh,PERSON,9
+pangsau pass,WORK_OF_ART,9
+himachali,NORP,9
+roman,PERSON,9
+shamirpet lake,LOC,9
+naga,PERSON,9
+greenery,ORG,9
+pampa,ORG,9
+the allied forces,ORG,9
+christians,NORP,9
+south india,LOC,9
+vijayadashami,GPE,9
+the subarnarekha river,LOC,9
+dhooska,ORG,9
+the thousand pillar temple,ORG,9
+ramayana,PERSON,9
+meitei mayek,PERSON,9
+bollywood,ORG,9
+kaziranga national park,FAC,9
+kumaoni,PERSON,9
+purulia chhau,PERSON,9
+pohela boishakh,PERSON,9
+argentina,GPE,9
+pilak,PERSON,9
+yamunotri,GPE,9
+farah,PERSON,9
+edulabad lake,GPE,9
+goddess parvati,ORG,9
+patna,GPE,9
+kanchipuram silk sarees,ORG,9
+the british resident general,ORG,9
+falaknuma palace,FAC,8
+mahavir,PERSON,8
+taramati baradari,PERSON,8
+the virupaksha temple,ORG,8
+khecheopalri lake,GPE,8
+venuban vihar,ORG,8
+kodava,PERSON,8
+huttari,ORG,8
+bhaichung stadium,FAC,8
+aribam syam sharma,ORG,8
+laila tyabji,PERSON,8
+dubi copper plate inscriptions,ORG,8
+thigalarpet,GPE,8
+panguni uthiram,ORG,8
+betla national park,FAC,8
+khurja,ORG,8
+puran puri,PERSON,8
+santhal,LOC,8
+pahari,ORG,8
+manipuri,GPE,8
+toli masjid,PERSON,8
+moors,ORG,8
+naamghar,PERSON,8
+zakir husain,PERSON,8
+kol rebellion,LOC,8
+olympian,NORP,8
+the mughal empire,ORG,8
+bhadrachala ramadasu,PERSON,8
+chamba rumal,ORG,8
+thirubuvanam silk sarees,ORG,8
+rama,ORG,8
+mary help,PERSON,8
+kohima,PERSON,8
+sahili,PERSON,8
+mishti doi,PERSON,8
+shivangi,PERSON,8
+the manjira wildlife sanctuary,ORG,8
+shabana azmi,PERSON,8
+chowmahalla palace,PERSON,8
+kangra,ORG,7
+durgam cheruvu,ORG,7
+guru gorakhnath,PERSON,7
+mir osman,PERSON,7
+ali khan,PERSON,7
+manimahesh kailash,PERSON,7
+jesus christ,PERSON,7
+mohammad azharuddin,PERSON,7
+temi tea garden,ORG,7
+basmati,ORG,7
+the ujjayanta palace,ORG,7
+yaosang,GPE,7
+ahwa,GPE,7
+nadimi bird island,FAC,7
+classical tibetan,ORG,7
+buddha park,PERSON,7
+buddha memorial park,PERSON,7
+gadwal sari,PERSON,7
+harmonium,ORG,7
+dharmavaram,ORG,7
+parab,NORP,7
+talatal ghar,WORK_OF_ART,7
+udayagiri,ORG,7
+shakha pola,PERSON,7
+chota,GPE,7
+char dham,PERSON,7
+bhagirathi,WORK_OF_ART,7
+national gallery of modern art,ORG,7
+the maurya empire,GPE,7
+mekhela sador,PERSON,7
+the haora river,LOC,7
+dental council of india,ORG,7
+sikh,PERSON,7
+phool walon ki sair,ORG,7
+sharana movement,ORG,7
+the vijayanagara empire,GPE,7
+kohima war cemetery,EVENT,7
+akshaya tritiya,NORP,7
+north dravidian,NORP,7
+the kol rebellion,LOC,7
+the groundnut festival,EVENT,7
+ragi mudde,ORG,7
+sujani,ORG,7
+assam state museum,ORG,7
+manjira wildlife sanctuary,ORG,7
+golden muga,PERSON,7
+garad,PERSON,7
+shampy,PERSON,7
+pathargatti,PERSON,7
+the godavari river,LOC,7
+preserving india's,ORG,7
+rich heritage,PERSON,7
+dewan devdi,WORK_OF_ART,7
+vautha,GPE,7
+the lotus temple,ORG,6
+the arabian sea,LOC,6
+samiti lake,LOC,6
+the state museum,ORG,6
+fig,ORG,6
+bhadrachalam,PERSON,6
+the summer storm festival,EVENT,6
+lingayat,PERSON,6
+kodaikanal,ORG,6
+the sangken festival,EVENT,6
+biryani,PERSON,6
+bogatha waterfall,PERSON,6
+tibetan buddhism,ORG,6
+the sessa orchid sanctuary,ORG,6
+the dree festival,EVENT,6
+sarpa kavu,PERSON,6
+battle of saraighat,WORK_OF_ART,6
+phanigiri,GPE,6
+the puranas of hinduism as,PERSON,6
+the pushbanta palace,ORG,6
+losar,GPE,6
+majuli river island,LOC,6
+alwal lake,WORK_OF_ART,6
+villianur terracotta works,ORG,6
+dangs darbar,ORG,6
+roman calendar,PERSON,6
+khurja pottery,ORG,6
+kinnerasani wildlife sanctuary,ORG,6
+kurukh,GPE,6
+madurai sungudi sarees,ORG,6
+laknavaram lake,PERSON,6
+sikkimese,GPE,6
+nelakondapalli,ORG,6
+cheiraoba,GPE,6
+the manipuri new year,FAC,6
+adis,PERSON,6
+ashokan rock edict,WORK_OF_ART,6
+kurur,GPE,6
+nandanagar,GPE,6
+urdu,GPE,6
+hundru falls,PERSON,6
+tori railway station,FAC,6
+nati imli,ORG,6
+the mahamaham tank,ORG,6
+sangai,PRODUCT,6
+the assam provincial museum,ORG,6
+durga,ORG,6
+the kingdom of mysore,GPE,6
+nyokum,PERSON,6
+hidimbi,PERSON,6
+pattachitra,NORP,6
+bodh gaya,PERSON,6
+the gajwel assembly,ORG,6
+the minjar festival,EVENT,6
+machher jhol,FAC,6
+guwahati,GPE,6
+mrugavani national park,FAC,6
+preserving india’s rich heritage,WORK_OF_ART,6
+kadamba,ORG,6
+gunabati group of temples,ORG,6
+manjusha,NORP,6
+dholka taluka,PERSON,6
+rudrasagar lake,PERSON,5
+the college of the holy spirit,ORG,5
+shamlaji melo,PERSON,5
+abids,WORK_OF_ART,5
+the kaveri river,LOC,5
+the tibeto-burman,ORG,5
+the falaknuma palace,ORG,5
+gothic,ORG,5
+cheekupally,ORG,5
+the pocharam wildlife sanctuary,ORG,5
+yamuna,ORG,5
+pootharekulu,PERSON,5
+tiwa,ORG,5
+meetha,PERSON,5
+sri mukhalingam temple,ORG,5
+kashmiri,ORG,5
+thaipusam,PRODUCT,5
+hidimbi devi,PERSON,5
+khara,PERSON,5
+barsana,ORG,5
+nandgaon,ORG,5
+eastern indo-aryan,LOC,5
+southern india,LOC,5
+deepika kumari,PERSON,5
+purana pul,FAC,5
+pocharam,GPE,5
+the asman garh palace,ORG,5
+safilguda lake,LOC,5
+chilkur,ORG,5
+the ramanathaswamy temple,ORG,5
+kundagannada,ORG,5
+nanda devi,PERSON,5
+national academy of fine arts,ORG,5
+manjunatha,PERSON,5
+the trishna wildlife sanctuary,ORG,5
+gangtok carpet weaving,ORG,5
+rachakonda fort,WORK_OF_ART,5
+kafuli,PERSON,5
+monabarie,ORG,5
+zaru,ORG,5
+gurkha,PERSON,5
+gajam anjaiah,PERSON,5
+"the ""tawang monastery",ORG,5
+baha parab,WORK_OF_ART,5
+bangalore karaga,PERSON,5
+khar,PERSON,5
+ramman,PERSON,5
+pocharam lake,LOC,5
+the si-donyi festival,ORG,5
+kartik poornima,PERSON,5
+lucknow residency,ORG,5
+the kashmiri new year,EVENT,5
+thaipusam kavadi,PERSON,5
+bodhi,ORG,5
+torchlight parade,LOC,5
+ghaghara,WORK_OF_ART,5
+pakhal lake,ORG,5
+thang-ta,PERSON,5
+khortha,PERSON,5
+deepavali,ORG,5
+manjusha art,PERSON,5
+rabindranath tagore,PERSON,5
+punjab agricultural university,ORG,5
+warangal fort,FAC,5
+the tawang monastery,ORG,5
+ho,PERSON,5
+golghar,PERSON,5
+sailo,GPE,5
+neermahal,PERSON,5
+villianur,ORG,5
+kardang monastery,PERSON,5
+goddess saraswati,ORG,5
+the government of india,ORG,5
+kerala mural paintings,ORG,5
+kyongnosla alpine sanctuary,PERSON,5
+great himalayan national park,FAC,5
+jal mandir,PERSON,5
+bishnupur,PERSON,5
+mirzapur,GPE,5
+dasara,PERSON,5
+muslim,NORP,5
+ntr gardens,ORG,5
+riha,ORG,5
+aadi perukku,GPE,5
+mir alam tank,FAC,5
+bahadurpura,PERSON,5
+the kinnerasani wildlife sanctuary,ORG,4
+karam puja,ORG,4
+karam-devta,ORG,4
+zari,PERSON,4
+takri,PERSON,4
+ce,GPE,4
+indo-roman,ORG,4
+madhubani,LOC,4
+the edulabad water reservoir,ORG,4
+the sita ramachandraswamy temple,ORG,4
+secunderabad,GPE,4
+tant,ORG,4
+paigah palace,FAC,4
+rudrasagar,GPE,4
+edulabad water reservoir,ORG,4
+contemporary,ORG,4
+lakshadeepotsava,PERSON,4
+pedana kalamkari,PERSON,4
+lathmar holi,PERSON,4
+noon chai,WORK_OF_ART,4
+tikuli,GPE,4
+oliga,NORP,4
+textile,ORG,4
+yugang bamboo altars,ORG,4
+gnana saraswati temple,FAC,4
+dharamshala,GPE,4
+coconut,ORG,4
+kumbhakonam,GPE,4
+konyaks,ORG,4
+durga puja,ORG,4
+ins kursura,PERSON,4
+panikotha,GPE,4
+shabana,GPE,4
+spanish,NORP,4
+mosque,NORP,4
+kalamkari,GPE,4
+khursheed jah devdi,ORG,4
+humayun,PERSON,4
+the kolkata book fair,ORG,4
+khara dupatta,PERSON,4
+pichwai painting,PERSON,4
+rohit khandelwal,WORK_OF_ART,4
+kulvi,PERSON,4
+sepahijala wildlife sanctuary,ORG,4
+tungnath,PERSON,4
+pandavas,NORP,4
+annexation of goa,ORG,4
+wildlife sanctuary,ORG,4
+summer storm festival,EVENT,4
+vasona lion safari park,PERSON,4
+undavalli caves,PERSON,4
+kedarnath,PERSON,4
+dhaam,ORG,4
+sanjay gandhi jaivik udyan,PERSON,4
+trans-boundary river,EVENT,4
+kabhi kabhi aditi,WORK_OF_ART,4
+moti daman,PERSON,4
+the pattadakal festival,EVENT,4
+maurya,PERSON,4
+china,GPE,4
+kawal wildlife sanctuary,ORG,4
+mahabalipuram,ORG,4
+lakhudiyar caves,PERSON,4
+dil raju,ORG,4
+undavalli,PERSON,4
+thousand pillar temple,WORK_OF_ART,4
+saluni,GPE,4
+gunsi,LOC,4
+devka beach,GPE,4
+meenakshi,ORG,4
+the bengali new year,ORG,4
+the yamuna river,LOC,4
+k. chandrasekhar rao,PERSON,4
+cane,ORG,4
+jani shikar,PERSON,4
+kalari,ORG,4
+the kangra valley,ORG,4
+rashid ali,PERSON,4
+the tulip festival,EVENT,4
+ubaidullah sindhi,PERSON,4
+"the ""pranahita wildlife sanctuary",ORG,4
+gangtok,NORP,4
+hinduism,NORP,4
+navaratri,ORG,4
+tipu sultan,GPE,4
+parandi,PERSON,4
+kangra earthquake,WORK_OF_ART,4
+khogampat gardens,ORG,4
+mahabodhi temple,PERSON,4
+onglakthang valley,GPE,4
+sree shree govindaji temple,PERSON,4
+"the ""chithirai festival",PRODUCT,4
+the hornbill festival,EVENT,4
+the ganges river,LOC,4
+bisi bele bath,PERSON,4
+gangetic,NORP,4
+ruins,PERSON,4
+kachari,ORG,4
+rajbari,NORP,4
+kol uprising,PERSON,4
+ganga,GPE,4
+malik aiyaz,PERSON,4
+the darbhanga fort,FAC,4
+makkah masjid,PERSON,4
+vautha mela,PERSON,4
+kerala ayurveda,ORG,4
+banjara hills,GPE,4
+hussain sagar lake,GPE,4
+diu head,PERSON,3
+eri,PERSON,3
+st. paul’s church,ORG,3
+mewar,PERSON,3
+kitam bird sanctuary,PERSON,3
+khichdi,ORG,3
+bengali,NORP,3
+arikamedu,GPE,3
+khogampatt gardens,LOC,3
+the gunabati group of temples,ORG,3
+dravidian,NORP,3
+magadha,GPE,3
+kumortuli,PERSON,3
+pemayangtse monastery,ORG,3
+p.v. narasimha rao,ORG,3
+baisakhi,ORG,3
+sanskrit,LOC,3
+kudalasangama,PERSON,3
+fakim wildlife sanctuary,PERSON,3
+qubani,PERSON,3
+the cathedral church of the redemption,ORG,3
+bholanath,PERSON,3
+the warangal fort,LOC,3
+the nataraja temple,ORG,3
+panchemal,ORG,3
+basilica,PERSON,3
+religion: buddhism,WORK_OF_ART,3
+ali yavar jung,PERSON,3
+birsa munda airport,FAC,3
+dalai,ORG,3
+the eaglenest wildlife sanctuary,ORG,3
+dumboor lake,PERSON,3
+mian,NORP,3
+the kanchipuram silk sarees,ORG,3
+majuli island,GPE,3
+satmaliya deer park,ORG,3
+taj mahal,PERSON,3
+the dental council of india,ORG,3
+the brihadisvara temple,ORG,3
+barabar caves,ORG,3
+the rumtek monastery,ORG,3
+the sunrise festival,EVENT,3
+dong,GPE,3
+kudubi,ORG,3
+the naini lake,GPE,3
+pulakeshin,PERSON,3
+mughal garden,PERSON,3
+the chowmahalla palace,ORG,3
+himayat sagar,PERSON,3
+pedana,GPE,3
+charak puja,ORG,3
+mughal,ORG,3
+textile embroidery,ORG,3
+kakatiya kala,PERSON,3
+the national gallery of modern art,ORG,3
+kullui,PERSON,3
+the solung festival,EVENT,3
+brihadisvara temple,PERSON,3
+k chandrasekhar rao,ORG,3
+mining cricket stadium,FAC,3
+uttarayan,NORP,3
+maddur,GPE,3
+uttarayani,NORP,3
+keibul lamjao national park,ORG,3
+the republic of india,GPE,3
+kommu koya,PERSON,3
+kuki-chin,PERSON,3
+asaf jahi,WORK_OF_ART,3
+bekal fort,PERSON,3
+"the ""manjira wildlife sanctuary",PRODUCT,3
+vembanad lake,PERSON,3
+mast ali,PERSON,3
+the natyanjali dance festival,ORG,3
+gumti wildlife sanctuary,GPE,3
+badkhal lake,PRODUCT,3
+the onam festival,EVENT,3
+jog falls,PERSON,3
+keibul lamjao national gardens,ORG,3
+mishti,PRODUCT,3
+vvs laxman,PERSON,3
+chettinad mansions,PERSON,3
+bodhi tree,WORK_OF_ART,3
+rangapahar,PERSON,3
+"the ""dree festival",EVENT,3
+majuli river,LOC,3
+"the ""eaglenest wildlife sanctuary",ORG,3
+konkan,NORP,3
+bharat,PERSON,3
+"the ""lotus temple",ORG,3
+the kardang monastery,ORG,3
+amavasya,FAC,3
+the bathu ki ladi temple,ORG,3
+roman catholic,NORP,3
+sessa orchid sanctuary,PERSON,3
+the pranahita wildlife sanctuary,ORG,3
+guru gobind singh,PERSON,3
+zambaulim village,GPE,3
+narayanpet,ORG,3
+eluru,GPE,3
+vikramshila gangetic dolphin sanctuary,ORG,3
+the santhal rebellion,ORG,3
+khan,PERSON,3
+fambong lho wildlife sanctuary,PERSON,3
+"the ""pemayangtse monastery",ORG,3
+diu fort,WORK_OF_ART,3
+nallagandla lake,LOC,3
+asia,LOC,3
+tulu,PERSON,3
+tulu nadu,FAC,3
+myanmar,GPE,3
+pungro circle,LOC,3
+pushbanta palace,FAC,3
+geographical indications,ORG,3
+hussain sagar,PERSON,3
+ahom,PRODUCT,3
+the mrugavani national park,ORG,3
+moksha,ORG,3
+beary bashe,PERSON,3
+"the ""vijayanagara empire",ORG,3
+sowa-rigpa,ORG,3
+dharmavaram silk sarees,ORG,3
+wayanad,ORG,3
+m. chinnaswamy stadium,FAC,3
+rogan painting,ORG,3
+haridwar,ORG,3
+bhojpur-purvanchal,ORG,3
+"the ""solung festival",EVENT,3
+majuli masks,WORK_OF_ART,3
+tant sarees,ORG,3
+104 km²,PRODUCT,3
+the singalila range,LOC,3
+immaculate conception cathedral,FAC,3
+the yaduvanshi jadaun rajputs,ORG,3
+loktak lake,ORG,3
+kollapur,PERSON,3
+ilkal,NORP,3
+silvassa,PERSON,3
+ms dhoni,PERSON,3
+the kawal wildlife sanctuary,ORG,3
+bom jesus church,ORG,3
+external affairs,ORG,3
+harappan,GPE,3
+telangana state archaeology museum,ORG,3
+ravindra bharathi,FAC,3
+bharat milap,ORG,3
+assamese neo-vaishnavite,PERSON,3
+kantha embroidery,PERSON,3
+hirwa van garden,PERSON,3
+srikalahasti kalamkari,PERSON,3
+nehru zoological park,PERSON,3
+birla mandir,PERSON,3
+the indian navy,ORG,2
+the onglakthang valley,GPE,2
+the church of our lady,ORG,2
+the bom jesus church,ORG,2
+the kang festival,EVENT,2
+lacha punjabi,ORG,2
+the pemayangtse monastery,ORG,2
+terminalia,ORG,2
+brahmic,PERSON,2
+pat,PERSON,2
+mishmi,LOC,2
+mokokchung,PERSON,2
+apatani,PERSON,2
+onam,ORG,2
+puranas,GPE,2
+p. v. narasimha rao,PERSON,2
+kurta,GPE,2
+feni,PERSON,2
+jonbeel mela,PERSON,2
+panchalinga darshana,FAC,2
+bce - 4th century ce period,EVENT,2
+green revolution,EVENT,2
+the khairatabad mosque,ORG,2
+the kashmir valley,LOC,2
+de zamboulim,PERSON,2
+kadalekai parishe,PERSON,2
+munda language,PERSON,2
+purnima,PERSON,2
+pulie badze,PERSON,2
+gadwal,ORG,2
+zampa gateway,PERSON,2
+gautampura,GPE,2
+ujjayanta palace,FAC,2
+rohit bansal,PERSON,2
+the sharavati river,LOC,2
+the majuli river island,LOC,2
+the world book fair,EVENT,2
+dornakal,PERSON,2
+braj cuisine,PERSON,2
+chithirai festival,EVENT,2
+the fambong lho wildlife sanctuary,ORG,2
+sita ramachandraswamy temple,FAC,2
+chola dynasty,ORG,2
+haora river,LOC,2
+dasara celebrations,ORG,2
+agartala book fair,ORG,2
+the ramagiri fort,LOC,2
+diwali,GPE,2
+telugu,ORG,2
+parvati,GPE,2
+shivratri,PERSON,2
+mandi,PERSON,2
+kullu dussehra,PERSON,2
+chedi empire,GPE,2
+jarasandha,PERSON,2
+duryodhana,PERSON,2
+the sri kurmam temple,ORG,2
+kurma,GPE,2
+lake tsomgo,FAC,2
+eaglenest wildlife sanctuary,ORG,2
+gujarat,GPE,2
+narali purnima festival,ORG,2
+historic fort,PERSON,2
+st. paul's church,ORG,2
+the bonderam festival,EVENT,2
+the ramman festival,EVENT,2
+104 km2,PRODUCT,2
+singalila,PERSON,2
+har ki pauri,ORG,2
+"the ""hornbill festival",PRODUCT,2
+"the ""world book fair",EVENT,2
+the ahom kingdom,GPE,2
+shivalik,LOC,2
+tosham rock,PERSON,2
+kota gullu,PERSON,2
+durgi,NORP,2
+kang,ORG,2
+khes,PERSON,2
+mysore dasara,LOC,2
+the banarasi saree,ORG,2
+the naida caves,ORG,2
+sri kudala sangameshwara jatra,FAC,2
+the mian mishk mosque,ORG,2
+dalai lama,PERSON,2
+khangchendzonga national park,FAC,2
+vishnu and shiva,ORG,2
+india’s,ORG,2
+misal pav,PERSON,2
+cheriyal scroll painting,ORG,2
+ameenpur lake,WORK_OF_ART,2
+"the ""kol rebellion",ORG,2
+"the ""khairatabad mosque",ORG,2
+trishna wildlife sanctuary,WORK_OF_ART,2
+mary kom,PERSON,2
+"the ""gumti wildlife sanctuary",PRODUCT,2
+"the ""virupaksha temple",ORG,2
+"the ""lokrang festival",ORG,2
+"the ""natyanjali dance festival",ORG,2
+mohameddens,NORP,2
+our lady of angels,WORK_OF_ART,2
+tomb,PERSON,2
+prayagraj kumbh mela,PERSON,2
+paranthe wali gali,WORK_OF_ART,2
+the basheer bagh palace,ORG,2
+subansiri river,LOC,2
+the hidimba devi temple,FAC,2
+dingko singh,PERSON,2
+tooni,PERSON,2
+rani chaap,PERSON,2
+golu,PERSON,2
+nagaland zoological park,FAC,2
+navreh,NORP,2
+rowa wildlife sanctuary,GPE,2
+kameeswarar,PERSON,2
+"the ""rumtek monastery",ORG,2
+kitam bird,WORK_OF_ART,2
+bhaskaravarman,PERSON,2
+kamarupa,PERSON,2
+"the ""banarasi saree",PRODUCT,2
+shantiniketan,NORP,2
+basheer bagh palace,WORK_OF_ART,2
+the lepakshi temple,ORG,2
+the nizams of the asaf jahi,ORG,2
+mamluk dynasty,ORG,2
+capital,GPE,2
+the puranas of hinduism,PERSON,2
+mian mishk mosque,ORG,2
+the gumti wildlife sanctuary,LOC,2
+gangotri,PERSON,2
+kuntala waterfall,PERSON,2
+indraprastha,GPE,2
+the kuru kingdom,LOC,2
+minjar festival,EVENT,2
+kang festival,FAC,2
+sudhir tailang,PERSON,2
+the assam state museum,ORG,2
+nirmal,ORG,2
+the nagpuri language,FAC,2
+fox sagar lake,PERSON,2
+the gadwal sari,ORG,2
+the suyal river,LOC,2
+thanka,GPE,2
+padam,PERSON,2
+darbhanga,GPE,2
+pathalgadi movement,ORG,2
+the ilkal saree,WORK_OF_ART,2
+persian,NORP,2
+mising,PERSON,2
+"the ""kaziranga national park",ORG,2
+asman jah,PERSON,2
+navarrese,NORP,2
+patancheru,GPE,2
+ali ai ligang,PERSON,2
+mohammad ali baig,PERSON,2
+trishna sanctuary,ORG,2
+sohrai and khovar painting,ORG,2
+hemkund sahib gurdwara,ORG,2
+pattachitra scroll painting,ORG,2
+kappad beach,GPE,2
+koyilandy,GPE,2
+bathu ki,PERSON,2
+sangken festival,FAC,2
+the great himalayan national park,FAC,2
+khairatabad mosque,PERSON,2
+harshvardhan,WORK_OF_ART,2
+"the ""rowa wildlife sanctuary",ORG,2
+"the ""diocese of dornakal of the church of south india",WORK_OF_ART,2
+tungabhadra,PERSON,2
+"the ""nagaland zoological park",ORG,2
+khammam fort,PERSON,2
+the undavalli caves,PERSON,2
+lakshadeepotsava festival,EVENT,2
+kutch embroidery,ORG,2
+padam bamboo carvings,PERSON,2
+jadopatia painting,PERSON,2
+muslims,NORP,2
+halmidi,LOC,2
+the alaknanda river,LOC,2
+hyderabad muslim,NORP,2
+the pocharam forest,ORG,2
+bushahr kingdom,GPE,2
+olympic,EVENT,2
+nallamala,ORG,2
+darbhanga fort,FAC,2
+dev deepawali,PERSON,2
+spituk,ORG,2
+kedarnath temple,PERSON,2
+chotanagpur,PERSON,2
+union territory,ORG,2
+chamba kingdom,GPE,2
+qutb shahi tombs,WORK_OF_ART,2
+the kirateshwar mahadev temple,ORG,2
+varsey rhododendron sanctuary,GPE,2
+the mahabodhi temple complex,ORG,2
+surkanda devi,NORP,2
+cathedral church of the redemption,ORG,2
+pangsau pass winter festival,WORK_OF_ART,2
+banjhakri falls,ORG,2
+energy park,FAC,2
+thuamul rampur,PERSON,2
+the maenam wildlife sanctuary,ORG,2
+kartik,ORG,2
+mekhela,PERSON,2
+"the ""state archaeology museum",ORG,2
+nagpuri,GPE,2
+laishram sarita devi,WORK_OF_ART,2
+kutch,ORG,2
+"the ""haora river",ORG,2
+agra fort,PERSON,2
+a western pahari,NORP,2
+bal gangadhar tilak,PERSON,2
+the rachakonda fort,ORG,2
+raja harsh ka tila,PERSON,2
+piparia,GPE,2
+chhath puja,WORK_OF_ART,2
+bhongir fort,WORK_OF_ART,2
+kharchi puja,PERSON,2
+st. andrew's,ORG,2
+torma,ORG,2
+fort of bricks,FAC,2
+geographical indication,ORG,2
+"the ""undavalli caves",PRODUCT,2
+earth,LOC,2
+khichdi mela,WORK_OF_ART,2
+irom sharmila chanu,PERSON,2
+siddhar agastyar,PERSON,2
+the mekhela sador,ORG,2
+rumtek monastery,ORG,2
+the gnana saraswati temple,ORG,2
+shyam benegal,PERSON,2
+singh munda,PERSON,2
+dorjee phurba,ORG,2
+the asaf jahi nizams,ORG,2
+the paigah palace,FAC,1
+the aravalli hills,GPE,1
+thewa,GPE,1
+the bodhi tree,ORG,1
+basohli,PERSON,1
+the battle of haldighati,WORK_OF_ART,1
+amritsar,ORG,1
+secret lake,WORK_OF_ART,1
+the shivaram wildlife sanctuary,ORG,1
+assam tea,PERSON,1
+kanchipuram,ORG,1
+mulberry,PERSON,1
+imphal west,LOC,1
+manipur,GPE,1
+cubbon park,FAC,1
+mg road,FAC,1
+the kamakhya temple,FAC,1
+mishing,LOC,1
+pookalam,NORP,1
+king mahabali,PERSON,1
+nizams,PERSON,1
+the asaf jahi dynasty,ORG,1
+oraon,PERSON,1
+the tai new year,FAC,1
+the tori railway station,ORG,1
+nyingma,LOC,1
+vijayanagara,PERSON,1
+lushai hills,GPE,1
+the kohima war cemetery,EVENT,1
+congress,ORG,1
+congress party,ORG,1
+ayurveda,ORG,1
+the mary help of,ORG,1
+vijayanaga,PERSON,1
+the santali & ho,ORG,1
+gadwal sar,PERSON,1
+gajwel,LOC,1
+kumbh mela,PERSON,1
+yadavindra gardens,PERSON,1
+khortha language,PERSON,1
+kurur village,GPE,1
+nadimi bird,LOC,1
+moula ali,PERSON,1
+panguni,ORG,1
+jallianwala bagh,PERSON,1
+amaravati,GPE,1
+trishna,GPE,1
+neo-vaishnavite,PERSON,1
+coo,ORG,1
+snapdeal,PERSON,1
+mangalagiri,ORG,1
+beach,PERSON,1
+national highway 66,ORG,1
+religion buddhism,PRODUCT,1
+the daman ganga river,GPE,1
+qutb shahi,FAC,1
+kondapalli,PERSON,1
+natyanjali dance festival,FAC,1
+kaveri sankramana,LOC,1
+bce,ORG,1
+lepakshi,PERSON,1
+palak dil,PERSON,1
+maharaja birendra kishore manikya,ORG,1
+the agartala book fair,ORG,1
+the indo-aryan,ORG,1
+the ramagiri hills,LOC,1
+the ins khukri memorial,ORG,1
+maenam wildlife sanctuary,ORG,1
+world,PERSON,1
+drukpa lineage,ORG,1
+rangcha,PERSON,1
+the bhaga river,LOC,1
+kalinga,PERSON,1
+the pungro circle,LOC,1
+the advaita vedanta,FAC,1
+adi shankara,PERSON,1
+qila mubarak,PERSON,1
+bathinda,ORG,1
+gangtok in changu,ORG,1
+badami,GPE,1
+fort louis,GPE,1
+rani,PERSON,1
+wood carving,ORG,1
+halmidi inscription,ORG,1
+tawang monastery,PERSON,1
+maenam,GPE,1
+godavari river,LOC,1
+mong mao,PERSON,1
+the patkai mountains,LOC,1
+kirateshwar mahadev temple,PERSON,1
+atharamura hills,PERSON,1
+royal palace,ORG,1
+"the ""asman garh palace",PRODUCT,1
+"the ""lepakshi temple",ORG,1
+govindaji,PERSON,1
+maharani gunabati,ORG,1
+"the ""sepahijala wildlife sanctuary",ORG,1
+the geographical indication of the agreement on trade-related aspects of intellectual property rights,ORG,1
+emperor ashoka,ORG,1
+mahabalipuram temples,WORK_OF_ART,1
+the rowa wildlife sanctuary,ORG,1
+the brahmaputra river,LOC,1
+the aati kalenja,LOC,1
+kamalasagar,PERSON,1
+bangladesh,GPE,1
+world book fair,EVENT,1
+garh palace,PERSON,1
+kangri,NORP,1
+nakshatra garden,ORG,1
+hingot mela,PERSON,1
+east central railway,LOC,1
+manda,GPE,1
+the chettinad mansions,ORG,1
+madurai,ORG,1
+the purulia chhau,ORG,1
+kanchi kamakoti peetha,WORK_OF_ART,1
+chorten stupa,PERSON,1
+the group of monuments at,ORG,1
+hampi,FAC,1
+"the ""mahamaham",ORG,1
+viharas,PERSON,1
+classical,ORG,1
+sharavati,GPE,1
+"the ""kadalekai parishe",PRODUCT,1
+"the ""gunabati group of temples",ORG,1
+hidimbi temple,WORK_OF_ART,1
+"the ""cathedral church of the redemption",ORG,1
+"the ""bonderam festival",PRODUCT,1
+the national academy of letters,ORG,1
+the gajwel assembly constituency,ORG,1
+dharmaraj,PERSON,1
+"the ""surkanda devi temple",ORG,1
+battle of haldighati,WORK_OF_ART,1
+"the ""kardang monastery",ORG,1
+karam devta,PERSON,1
+lepakshi temple frescoes,PERSON,1
+the immaculate conception cathedral,ORG,1
+andhra pradesh,PERSON,1
+the 1998,EVENT,1
+asian games,EVENT,1
+okner wood carving,PERSON,1
+dal-bati-churma,ORG,1
+dhok,ORG,1
+hmuifang,ORG,1
+ghagara,GPE,1
+tholpavakoothu,GPE,1
+sessa,PERSON,1
+nishi,NORP,1
+ahoms,GPE,1
+the salar jungs,ORG,1
+chowmahalla,PERSON,1
+mylara,GPE,1
+maharaja,GPE,1
+kameshwar singh,PERSON,1
+conception,ORG,1
+naida caves,WORK_OF_ART,1
+"the ""lengteng wildlife sanctuary",PRODUCT,1
+dentist,ORG,1
+ekasarana,GPE,1
+"the ""sri mukhalingam temple",PRODUCT,1
+egypt,GPE,1
+yugoslavia,GPE,1
+greece,GPE,1
+france,GPE,1
+the united states,GPE,1
+siddhars,PRODUCT,1
+"the ""fambong lho wildlife sanctuary",PRODUCT,1
+"the ""thirubuvanam silk sarees",ORG,1
+kutchi,PRODUCT,1
+the lucknow residency,ORG,1
+the kyongnosla alpine sanctuary,ORG,1
+vantawng falls,PERSON,1
+assamese neo-vaishnavism,PERSON,1
+the kudalasangama temple,FAC,1
+the mailara jaatre,ORG,1
+the lepakshi temple frescos,ORG,1
+pathalgadi constitutional provision,WORK_OF_ART,1
+the fakim wildlife sanctuary,ORG,1
+ramanathaswamy temple,ORG,1
+dampa tiger reserve,ORG,1
+tulip festival,EVENT,1
+kudalasangama temple,PERSON,1
+phagun,GPE,1
+solung festival,EVENT,1
+the sikkim cricket association,ORG,1
+tantric,ORG,1
+the congress party,ORG,1
+the ravindra bharathi,ORG,1
+the bhagirathi river,LOC,1
+sher shah suri,PERSON,1
+the bangalore karaga,ORG,1
+the assam silk,ORG,1
+national,ORG,1
+ambubachi mela,LOC,1
+stanzin dorjai,ORG,1
+the geographical indications,ORG,1
+ved vyas,PERSON,1
+"the ""maenam wildlife sanctuary",EVENT,1
+charbagh,ORG,1
+ghazal singer,ORG,1
+"the ""ntr gardens",ORG,1
+surya,PERSON,1
+unesco world,ORG,1
+ananthagiri hills,PERSON,1
+"the ""khurja pottery",ORG,1
+"the ""khara dupatta",ORG,1
+indus valley,LOC,1
+amaravati school of sculpture,ORG,1
+vikram,ORG,1
+urus festival,EVENT,1
+sujani embroidery,ORG,1
+ladakhi,GPE,1
+gya village,GPE,1
+mahamaham festival,ORG,1
+cubbon,LOC,1
+uptown mg road,ORG,1
+rasgulla,PERSON,1
+banarasi saree,ORG,1
+lakshmi puja,WORK_OF_ART,1
+"the ""thousand pillar temple",ORG,1
+bahour lake,WORK_OF_ART,1
+"the ""trishna wildlife sanctuary",ORG,1
+parshuram kund,WORK_OF_ART,1
+sunrise festival,EVENT,1
+talat aziz,PERSON,1
+battle of,WORK_OF_ART,1
+haldighati,ORG,1
+"the ""clouded leopard national park",ORG,1
+the padma shri,ORG,1
+mister world,ORG,1
+chamba,ORG,1
+tamil palm-leaf manuscripts,PERSON,1
+terracotta figurines,ORG,1
+virupaksha temple,PERSON,1
+monpa paper scrolls,ORG,1
+siddha medicine,PERSON,1
+okner,PERSON,1
+the khortha language,FAC,1
+sohrai,ORG,1
+khovar,ORG,1
+alaknanda river,LOC,1
+the sonepur cattle fair,ORG,1
+the mahamaham festival,ORG,1
+eluru carpets,ORG,1
+cartoonist,NORP,1
+the king kothi palace,ORG,1
+ita fort,LOC,1
+ranchi,GPE,1
+braj,ORG,1
+nilgiri hills,PERSON,1
+bakula rinpoche,ORG,1
+vennela kishore,PERSON,1
+"the ""great stupa of sanchi",EVENT,1
+"the ""pangolakha wildlife sanctuary",PRODUCT,1
+bhil,PERSON,1
+qutub minar,WORK_OF_ART,1
+"the ""kol uprising",ORG,1
+"the ""vasona lion safari park",ORG,1
+"the ""shivaram wildlife sanctuary",PRODUCT,1
+nizamabad,GPE,1
+tomb of sher shah suri,WORK_OF_ART,1
+"the ""tomb of sher shah suri",PRODUCT,1
+"the ""si-donyi festival",ORG,1
+the ntangki national park,ORG,1
+the baleswari odia,FAC,1
+ganga dussehra,PERSON,1
+topor,NORP,1
+the gajan festival,EVENT,1
+the sree shree govindaji temple,LOC,1
+pranahita wildlife sanctuary,ORG,1
+unesco world heritage,ORG,1
+fortress of panikotha,ORG,1
+chettinad cuisine,PERSON,1
+the yadavindra gardens,FAC,1
+the birsa munda airport,FAC,1
+bronze,GPE,1
+the kadalekai parishe,LOC,1
+salar jung,PERSON,1
+goddess sati,ORG,1
+hemkund sahib,ORG,1
+dong village,GPE,1
+eastern ganga,LOC,1
+jawaharlal nehru,WORK_OF_ART,1
+mysuru dasara,GPE,1
+"the ""kundagannada dialect",ORG,1
+"the ""lakshadeepotsava",ORG,1
+malaprabha,NORP,1
+kuru kingdom,GPE,1
+"the ""phool walon ki sair",ORG,1
+"the ""kommu koya",ORG,1
+"the ""prayagraj kumbh mela",PRODUCT,1
+trans-boundary,LOC,1
+"the ""church of our lady",ORG,1
+angom anita chanu,WORK_OF_ART,1
+"the ""kirateshwar mahadev temple",ORG,1
+osman sagar,PERSON,1
+bathu ki ladi temple,PERSON,1
+curry stew,PERSON,1
+thanka painting,ORG,1
+provincias de zamboulim,ORG,1
+the clouded leopard national park,ORG,1
+changu,GPE,1
+jampui hills,GPE,1
+sonowal kachari,ORG,1
+kondapalli wooden toys,PERSON,1
+undavalli cave architecture,PERSON,1
+deccan painting,ORG,1
+triggering kol rebellion,PERSON,1
+chola bronzes,ORG,1
+m. s. dhoni,PERSON,1
+saraswati,ORG,1
+the hundru falls,FAC,1
+arulmigu meenakshi,PERSON,1
+the nizams of the asaf dynasty,ORG,1
+bikaneri bhujia,PERSON,1
+colour,GPE,1
+moinabad,GPE,1
+sushma swaraj,PERSON,1
+the qutb complex,PRODUCT,1
+jadeja,GPE,1
+cutch,NORP,1
+maluti temples,WORK_OF_ART,1
+western ghats,LOC,1
+the river rangeet,FAC,1
+"the ""halmidi inscription",ORG,1
+"the ""green revolution",PRODUCT,1
+ins khukri memorial,WORK_OF_ART,1
+barren island,WORK_OF_ART,1
+basilica of bom jesus,WORK_OF_ART,1
+the ice stupa,ORG,1
+shivaram wildlife sanctuary,ORG,1
+rajim,ORG,1
+the trishna sanctuary,GPE,1
+amrita pritam,PERSON,1
+tabu,ORG,1
+western pahari,NORP,1
+nataraja temple,FAC,1
+dholka,ORG,1
+the mekhela chador,ORG,1
+the betla national park,ORG,1
+harshavardhana,PERSON,1
+the amritsar massacre,ORG,1
+church of our lady,ORG,1
+urus festival processions,EVENT,1
+sepahijala sanctuary,GPE,1
+nagoa beach,GPE,1
+takin,PERSON,1
+the lepakshi dance festival,ORG,1
+anantapur,GPE,1
+the sao jao festival,ORG,1
+national academy of letters,ORG,1
+saloor,PERSON,1
+dungra,PERSON,1
+etikoppaka,PRODUCT,1
+"the"" amaravati school of sculpture",ORG,1
+spanish mosque,WORK_OF_ART,1
+magh,PERSON,1
+the lokrang festival,EVENT,1
+the bella vista,ORG,1
+"the ""taj mahal",ORG,1
+"the ""losar",ORG,1
+"the ""amaravati school of sculpture"",originated",ORG,1
+"the ""shree govindaji temple",PRODUCT,1
+esha gupta,PERSON,1
+"the ""patna museum",ORG,1
+draupadi,PERSON,1
+munda,PERSON,1
+"the ""yugang bamboo altars",ORG,1
+cane and bamboo,WORK_OF_ART,1
+the darbhanga raj dynasty,ORG,1
+"the ""gajan",PRODUCT,1
+christian,NORP,1
+"the ""errum manzil",ORG,1
+"the ""gamosa",PRODUCT,1
+malla,PERSON,1
+"the ""national gallery of modern art",ORG,1
+"the ""bhitarkanika national park",ORG,1
+konyak,PERSON,1
+"the ""nataraja temple",ORG,1
+banjhakri falls and energy park,WORK_OF_ART,1
+clouded leopard national park,WORK_OF_ART,1
+sonowal,ORG,1
+the college of the holy,ORG,1
+church,ORG,1
+dewan devdiwas,WORK_OF_ART,1
+lake menmecho,PERSON,1
+the indian union,GPE,1
+puducherry,PERSON,1
+kashmiri rug,PERSON,1
+the dubi copper plate inscriptions,ORG,1
+sahitya akademi,PERSON,1
+the temi tea garden,ORG,1
+ladi temple,PERSON,1
+the khangchendzonga national park,FAC,1
+ajanta,GPE,1
+ellora caves,PERSON,1
+the mizoram state museum,ORG,1
+the dharmavaram silk sarees,ORG,1
+hatia railway station,PERSON,1
+the national park ntangki national park,ORG,1
+mailara jaatre,PERSON,1
+solomon,PERSON,1
+aizawl,GPE,1
+the barail range,LOC,1
+hornbill festival,EVENT,1
+an indo-aryan,ORG,1
+uttarayani festival,FAC,1
+pahari paintings,ORG,1
+durgi stone craft,ORG,1
+intellectual property rights,ORG,1
+gi,ORG,1
+the khursheed jah devdi,ORG,1
+the kalesar national park,ORG,1
+the kanchi kamakoti peetham,LOC,1
+the bhongir fort,LOC,1
+shah rukh khan,ORG,1
+the naina devi temple,ORG,1
+girnar mountain,ORG,1
+gateway,GPE,1
+the sharana movement,ORG,1
+murlen national park,FAC,1
+lengteng wildlife sanctuary,ORG,1
+the surkanda devi temple,ORG,1
+the taj mahal,ORG,1
+the hirwa van garden,FAC,1
+the lalit kala akademi,ORG,1
+baluchari,ORG,1
+rakshasi,ORG,1
+hidimba,PERSON,1
+kakatiyas.|an indian,NORP,1
+telia rumal,ORG,1
+ikat,ORG,1
+padma shri,PERSON,1
+government of india,ORG,1
+art,PERSON,1
+the telangana legislative assembly,ORG,1
+the bharat rashtra,ORG,1
+kinnerasani lake,LOC,1
+naga raja,PERSON,1
+snakes,NORP,1
+naga devatas,PERSON,1
+bunts,NORP,1
+nairs,ORG,1
+the sarpa kavu,FAC,1
+mizo,PERSON,1
+kuki,PERSON,1
+chin,PERSON,1
+zomi,PERSON,1
+united protestant,ORG,1
+denomination|an indian,NORP,1
+global face of hyderabadi theatre,WORK_OF_ART,1
+master of revival,WORK_OF_ART,1
+padmashri,PRODUCT,1
+the “basheer bagh palace,ORG,1
+purani haveli,WORK_OF_ART,1
+"vvs laxman""—is",PERSON,1
+kherwarian munda,ORG,1
+the 'falaknuma palace,ORG,1
+khogampatt,PERSON,1
+hyderabadi biryani,PERSON,1
+errum,PERSON,1
+moula ali hill,PERSON,1
+the “king kothi palace,ORG,1
+the “paljor stadium,EVENT,1
+the “pulie badze wildlife sanctuary,ORG,1
+the “chowmahalla palace,ORG,1
+the “pemayangtse monastery,ORG,1
+saikhom mirabai,WORK_OF_ART,1
+the “banjhakri falls and,ORG,1
